@@ -20,7 +20,7 @@
     "color-convert": "^2.0.1",
     "custom_utils": "file:src/base/utils",
     "devtools-protocol": "0.0.681549",
-    "events": "^3.1.0",
+    "events": "^3.2.0",
     "immer": "^1.12.1",
     "micromodal": "^0.4.6",
     "mithril": "^1.1.7",
