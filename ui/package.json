@@ -19,7 +19,7 @@
     "bufferutil": "^4.0.1",
     "color-convert": "^2.0.1",
     "custom_utils": "file:src/base/utils",
-    "devtools-protocol": "0.0.681549",
+    "devtools-protocol": "0.0.894467",
 
     "micromodal": "^0.4.6",
     "mithril": "^1.1.7",
